@@ -155,7 +155,7 @@ No known bugs at this time.
 
 ## Authors
 Sandra Sarpong - [Github](https://github.com/SandraSarpong)  
-Brenda Agyekum - [Github](https://github.com/Brenda-17) 
+Philip Ladzaka - [Github](https://github.com/Ahercode) 
 
 Second part of Airbnb: Joann Vuong
 ## License
